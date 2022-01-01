@@ -28,7 +28,7 @@ def message(text):#it will type the message
 def send():# it will press the enter key
     text_box[0].send_keys(u'\ue007')
 
-
+#send messages
 for i in range(300):
     message("happy new year bhai!!")
     send()
