@@ -7,3 +7,12 @@ The main code is on main.py
 
 The file chromedriver.exe is for crome driver of version 96.
 
+# How to run this code
+
+to run the program download the following python modules
+
+1. selenium
+
+```
+pip install selenium
+```
