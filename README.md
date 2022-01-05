@@ -16,3 +16,23 @@ to run the program download the following python modules
 ```
 pip install selenium
 ```
+
+# How to use this code.
+
+After running the code: -
+
+first of all scan the QR code whatsaap
+![step 1: - scan the QR code](/\images\step_1.jpg)
+
+
+
+
+And the select the chat to home you want to send messages
+![step 1: - scan the QR code](/\images\step_2.jpg)
+
+
+
+Then go to the console and press enter
+
+
+![step 1: - scan the QR code](/\images\step_3.png)
