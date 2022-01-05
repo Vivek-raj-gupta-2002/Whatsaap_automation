@@ -1,7 +1,6 @@
 #imports
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from time import sleep
 
 #requried details --help from https://stackoverflow.com/users/5016547/joseph238
 ser = Service(".\chromedriver")
